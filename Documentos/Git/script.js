@@ -2,5 +2,5 @@ function OlaMundo(){
     console.log("Olá Mundo");
 }
 
-Ola mundo como está vocẽ?
-    R: Eu estou bem!
+//Olá mundo como está vocẽ?
+    //R: Eu estou bem!
